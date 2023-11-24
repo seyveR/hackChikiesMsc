@@ -56,7 +56,7 @@
 
 тестирование:
 ```
-    git clone https://github.com/seyveR/hackChikiesMsc
+    git clone https://github.com/seyveR/hackChikiesMsc.git
     # скачайте и добавьте веса модели в папку проекта
     streamlit run server.py
 ```
